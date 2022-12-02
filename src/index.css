@@ -1,0 +1,133 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-color: gray; */
+  background-image: url("/Users/nelson/Downloads/electiveReact-main/src/image/background/background-body.jpg");
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.App {
+  text-align: center;
+}
+
+.Accueil-header {
+  /* background-image: url("/Users/nelson/Downloads/electiveReact-main/src/image/background/background-body2.jpg"); */
+  background-color: #282c34;
+  min-height: 100px;
+  vertical-align: middle;
+  text-align: center;
+  border-radius: 10px;
+  vertical-align: middle;
+  color:  white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white; */
+}
+
+.mainTitle{
+  text-align: center;
+  color:white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: larger;
+  vertical-align: middle;
+
+
+}
+
+.mainNavbar{
+/* background-image: url("/Users/nelson/Downloads/electiveReact-main/src/image/background/background-header.jpg"); */
+background-color: #282c34;
+text-align: justify;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+display:table; 
+line-height: 30px;
+font-display:initial;
+width:200px;
+height:100vh;
+float: left;
+margin:1vh;
+color:white;
+text-align:center;
+}
+
+.mainNavbarTitle{
+  text-align: center;
+  display:table;
+}
+
+.navButton{
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.premierParagraphe.blocktext{
+  text-align: center;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+  width: 6em;
+  
+}
+
+.areatext1{
+  text-align: center;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30em;
+  line-height:150%;
+  font-weight: bold;
+
+}
+
+.titreSeparation{
+  text-align: center;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30em;
+  line-height:150%;
+  color:green;
+  text-align:center;
+  font-weight: bold;
+}
+
+.playerSourate1{
+  text-align: center;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30em;
+  line-height:150%;
+}
+
+.premierParagraphe{
+  text-align: center;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30em;
+  line-height:150%;
+}
+
+.table1{
+  border-color: #282c34;
+  border-style: double;
+}
